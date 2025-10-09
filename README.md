@@ -1,3 +1,5 @@
-run LAB 1 with intelij !! 
+Laboratories from Bioinformatics Course. 
 
-run lab 2 and so on with any python compiler
+First lab done using Kotlin, rest of them using Python. 
+
+TIGAERU MIHAI SEPTIMIU - 1241EEA
