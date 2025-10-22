@@ -21,7 +21,7 @@ CODE_TABLE = {
 
 def translate(sequence: str) -> str:
     result = []
-    sequence = sequence.upper()
+    sequence = sequence.upper().replace('T', 'U')
     for i in range(0, len(sequence), 3):
         code = sequence[i:i+3]
         if len(code) < 3:
