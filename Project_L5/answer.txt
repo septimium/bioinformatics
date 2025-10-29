@@ -1,0 +1,5 @@
+The main issue with our algorithm is that it's fundamentally broken by sequence repeats. 
+The only reason it appears to work correctly right now is because We've 'cheated' by commenting out the second half of the original DNA, which was a massive repeat. 
+If we were to run this algorithm on the full, 1470-character sequence, it would fail. 
+Our 'greedy' logic of just 'finding the longest overlap' isn't smart enough; it would see the end of the first repeat and the end of the second repeat, think they're the same thing, and 'collapse' the two repeats into one. 
+We'd end up with an assembly of only ~735 characters, proving our algorithm can't tell the two identical paths apart.
