@@ -36,7 +36,6 @@ def sample_sequence(sequence, num_samples=2000, min_len=100, max_len=150):
     return samples
 
 def find_best_suffix_overlap(assembly, fragment, min_overlap=30):
-    """Finds the longest suffix of 'assembly' that matches a prefix of 'fragment'."""
     best_k = 0
     for k in range(min(len(assembly), len(fragment)), min_overlap - 1, -1):
         if assembly.endswith(fragment[:k]):
