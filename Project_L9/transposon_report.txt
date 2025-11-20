@@ -1,0 +1,605 @@
+================================================================================
+TRANSPOSON DETECTION REPORT
+Analysis of Inverted Repeats
+================================================================================
+
+METHODOLOGY:
+--------------------------------------------------------------------------------
+Transposons are detected by identifying inverted repeats (ITRs).
+Inverted repeats consist of a sequence and its reverse complement.
+
+Parameters:
+  - Inverted repeat length: 4-6 bp
+  - Maximum spacer distance: 100 bp
+
+
+================================================================================
+GENOME 1: genome1.fasta
+================================================================================
+Genome length: 828 bp
+Total inverted repeats: 753
+Top candidates: 46
+
+Distribution:
+  4 bp repeats: 17
+  5 bp repeats: 11
+  6 bp repeats: 18
+
+--- TOP 30 INVERTED REPEATS ---
+
+Repeat #1:
+  Left:  GCCGGG at position 6
+  Right: CCCGGC at position 111
+  Length: 6 bp, Spacer: 99 bp
+  Structure: GCCGGG--[99bp]--CCCGGC
+
+Repeat #2:
+  Left:  CCCCCA at position 31
+  Right: TGGGGG at position 67
+  Length: 6 bp, Spacer: 30 bp
+  Structure: CCCCCA--[30bp]--TGGGGG
+
+Repeat #3:
+  Left:  CCGCC at position 37
+  Right: GGCGG at position 141
+  Length: 5 bp, Spacer: 99 bp
+  Structure: CCGCC--[99bp]--GGCGG
+
+Repeat #4:
+  Left:  CGTGG at position 47
+  Right: CCACG at position 119
+  Length: 5 bp, Spacer: 67 bp
+  Structure: CGTGG--[67bp]--CCACG
+
+Repeat #5:
+  Left:  CACGCG at position 53
+  Right: CGCGTG at position 59
+  Length: 6 bp, Spacer: 0 bp
+  Structure: CACGCG--[0bp]--CGCGTG
+
+Repeat #6:
+  Left:  CCGC at position 90
+  Right: GCGG at position 193
+  Length: 4 bp, Spacer: 99 bp
+  Structure: CCGC--[99bp]--GCGG
+
+Repeat #7:
+  Left:  TCCAGC at position 94
+  Right: GCTGGA at position 185
+  Length: 6 bp, Spacer: 85 bp
+  Structure: TCCAGC--[85bp]--GCTGGA
+
+Repeat #8:
+  Left:  ACTCCG at position 124
+  Right: CGGAGT at position 154
+  Length: 6 bp, Spacer: 24 bp
+  Structure: ACTCCG--[24bp]--CGGAGT
+
+Repeat #9:
+  Left:  CCCGG at position 133
+  Right: CCGGG at position 221
+  Length: 5 bp, Spacer: 83 bp
+  Structure: CCCGG--[83bp]--CCGGG
+
+Repeat #10:
+  Left:  TGGT at position 150
+  Right: ACCA at position 250
+  Length: 4 bp, Spacer: 96 bp
+  Structure: TGGT--[96bp]--ACCA
+
+Repeat #11:
+  Left:  GAAC at position 164
+  Right: GTTC at position 203
+  Length: 4 bp, Spacer: 35 bp
+  Structure: GAAC--[35bp]--GTTC
+
+Repeat #12:
+  Left:  GCCC at position 177
+  Right: GGGC at position 256
+  Length: 4 bp, Spacer: 75 bp
+  Structure: GCCC--[75bp]--GGGC
+
+Repeat #13:
+  Left:  GGACGT at position 209
+  Right: ACGTCC at position 286
+  Length: 6 bp, Spacer: 71 bp
+  Structure: GGACGT--[71bp]--ACGTCC
+
+Repeat #14:
+  Left:  CCGGTG at position 215
+  Right: CACCGG at position 227
+  Length: 6 bp, Spacer: 6 bp
+  Structure: CCGGTG--[6bp]--CACCGG
+
+Repeat #15:
+  Left:  GGTC at position 235
+  Right: GACC at position 332
+  Length: 4 bp, Spacer: 93 bp
+  Structure: GGTC--[93bp]--GACC
+
+Repeat #16:
+  Left:  TCGC at position 241
+  Right: GCGA at position 304
+  Length: 4 bp, Spacer: 59 bp
+  Structure: TCGC--[59bp]--GCGA
+
+Repeat #17:
+  Left:  CTCCT at position 260
+  Right: AGGAG at position 355
+  Length: 5 bp, Spacer: 90 bp
+  Structure: CTCCT--[90bp]--AGGAG
+
+Repeat #18:
+  Left:  GAACAT at position 269
+  Right: ATGTTC at position 276
+  Length: 6 bp, Spacer: 1 bp
+  Structure: GAACAT--[1bp]--ATGTTC
+
+Repeat #19:
+  Left:  CGTCG at position 293
+  Right: CGACG at position 374
+  Length: 5 bp, Spacer: 76 bp
+  Structure: CGTCG--[76bp]--CGACG
+
+Repeat #20:
+  Left:  GCCGCG at position 315
+  Right: CGCGGC at position 417
+  Length: 6 bp, Spacer: 96 bp
+  Structure: GCCGCG--[96bp]--CGCGGC
+
+Repeat #21:
+  Left:  ATGCGG at position 342
+  Right: CCGCAT at position 437
+  Length: 6 bp, Spacer: 89 bp
+  Structure: ATGCGG--[89bp]--CCGCAT
+
+Repeat #22:
+  Left:  GACC at position 365
+  Right: GGTC at position 452
+  Length: 4 bp, Spacer: 83 bp
+  Structure: GACC--[83bp]--GGTC
+
+Repeat #23:
+  Left:  CGGGCC at position 387
+  Right: GGCCCG at position 470
+  Length: 6 bp, Spacer: 77 bp
+  Structure: CGGGCC--[77bp]--GGCCCG
+
+Repeat #24:
+  Left:  TCGA at position 397
+  Right: TCGA at position 409
+  Length: 4 bp, Spacer: 8 bp
+  Structure: TCGA--[8bp]--TCGA
+
+Repeat #25:
+  Left:  CGGCGA at position 443
+  Right: TCGCCG at position 493
+  Length: 6 bp, Spacer: 44 bp
+  Structure: CGGCGA--[44bp]--TCGCCG
+
+Repeat #26:
+  Left:  GGCGA at position 465
+  Right: TCGCC at position 547
+  Length: 5 bp, Spacer: 77 bp
+  Structure: GGCGA--[77bp]--TCGCC
+
+Repeat #27:
+  Left:  CGGC at position 476
+  Right: GCCG at position 512
+  Length: 4 bp, Spacer: 32 bp
+  Structure: CGGC--[32bp]--GCCG
+
+Repeat #28:
+  Left:  GGGTCG at position 481
+  Right: CGACCC at position 578
+  Length: 6 bp, Spacer: 91 bp
+  Structure: GGGTCG--[91bp]--CGACCC
+
+Repeat #29:
+  Left:  GGCG at position 504
+  Right: CGCC at position 590
+  Length: 4 bp, Spacer: 82 bp
+  Structure: GGCG--[82bp]--CGCC
+
+Repeat #30:
+  Left:  GGCGGT at position 516
+  Right: ACCGCC at position 615
+  Length: 6 bp, Spacer: 93 bp
+  Structure: GGCGGT--[93bp]--ACCGCC
+
+
+================================================================================
+GENOME 2: genome2.fasta
+================================================================================
+Genome length: 996 bp
+Total inverted repeats: 1007
+Top candidates: 50
+
+Distribution:
+  4 bp repeats: 10
+  5 bp repeats: 24
+  6 bp repeats: 16
+
+--- TOP 30 INVERTED REPEATS ---
+
+Repeat #1:
+  Left:  GTCGCG at position 9
+  Right: CGCGAC at position 89
+  Length: 6 bp, Spacer: 74 bp
+  Structure: GTCGCG--[74bp]--CGCGAC
+
+Repeat #2:
+  Left:  GCCGCG at position 22
+  Right: CGCGGC at position 127
+  Length: 6 bp, Spacer: 99 bp
+  Structure: GCCGCG--[99bp]--CGCGGC
+
+Repeat #3:
+  Left:  CGGCG at position 32
+  Right: CGCCG at position 116
+  Length: 5 bp, Spacer: 79 bp
+  Structure: CGGCG--[79bp]--CGCCG
+
+Repeat #4:
+  Left:  CCCTG at position 40
+  Right: CAGGG at position 84
+  Length: 5 bp, Spacer: 39 bp
+  Structure: CCCTG--[39bp]--CAGGG
+
+Repeat #5:
+  Left:  GCCGC at position 57
+  Right: GCGGC at position 108
+  Length: 5 bp, Spacer: 46 bp
+  Structure: GCCGC--[46bp]--GCGGC
+
+Repeat #6:
+  Left:  CGTGA at position 74
+  Right: TCACG at position 142
+  Length: 5 bp, Spacer: 63 bp
+  Structure: CGTGA--[63bp]--TCACG
+
+Repeat #7:
+  Left:  GCCCC at position 99
+  Right: GGGGC at position 187
+  Length: 5 bp, Spacer: 83 bp
+  Structure: GCCCC--[83bp]--GGGGC
+
+Repeat #8:
+  Left:  GGCCC at position 122
+  Right: GGGCC at position 202
+  Length: 5 bp, Spacer: 75 bp
+  Structure: GGCCC--[75bp]--GGGCC
+
+Repeat #9:
+  Left:  AAGG at position 135
+  Right: CCTT at position 226
+  Length: 4 bp, Spacer: 87 bp
+  Structure: AAGG--[87bp]--CCTT
+
+Repeat #10:
+  Left:  ACGT at position 153
+  Right: ACGT at position 244
+  Length: 4 bp, Spacer: 87 bp
+  Structure: ACGT--[87bp]--ACGT
+
+Repeat #11:
+  Left:  TCCTG at position 157
+  Right: CAGGA at position 258
+  Length: 5 bp, Spacer: 96 bp
+  Structure: TCCTG--[96bp]--CAGGA
+
+Repeat #12:
+  Left:  TCGAAG at position 165
+  Right: CTTCGA at position 266
+  Length: 6 bp, Spacer: 95 bp
+  Structure: TCGAAG--[95bp]--CTTCGA
+
+Repeat #13:
+  Left:  AGGACC at position 193
+  Right: GGTCCT at position 251
+  Length: 6 bp, Spacer: 52 bp
+  Structure: AGGACC--[52bp]--GGTCCT
+
+Repeat #14:
+  Left:  CGCC at position 221
+  Right: GGCG at position 296
+  Length: 4 bp, Spacer: 71 bp
+  Structure: CGCC--[71bp]--GGCG
+
+Repeat #15:
+  Left:  AGGGC at position 235
+  Right: GCCCT at position 288
+  Length: 5 bp, Spacer: 48 bp
+  Structure: AGGGC--[48bp]--GCCCT
+
+Repeat #16:
+  Left:  GCGTC at position 279
+  Right: GACGC at position 360
+  Length: 5 bp, Spacer: 76 bp
+  Structure: GCGTC--[76bp]--GACGC
+
+Repeat #17:
+  Left:  CCGCCG at position 304
+  Right: CGGCGG at position 401
+  Length: 6 bp, Spacer: 91 bp
+  Structure: CCGCCG--[91bp]--CGGCGG
+
+Repeat #18:
+  Left:  GACCC at position 326
+  Right: GGGTC at position 372
+  Length: 5 bp, Spacer: 41 bp
+  Structure: GACCC--[41bp]--GGGTC
+
+Repeat #19:
+  Left:  GCCGC at position 340
+  Right: GCGGC at position 352
+  Length: 5 bp, Spacer: 7 bp
+  Structure: GCCGC--[7bp]--GCGGC
+
+Repeat #20:
+  Left:  CGGC at position 368
+  Right: GCCG at position 428
+  Length: 4 bp, Spacer: 56 bp
+  Structure: CGGC--[56bp]--GCCG
+
+Repeat #21:
+  Left:  TCCTC at position 381
+  Right: GAGGA at position 396
+  Length: 5 bp, Spacer: 10 bp
+  Structure: TCCTC--[10bp]--GAGGA
+
+Repeat #22:
+  Left:  GACCAC at position 386
+  Right: GTGGTC at position 482
+  Length: 6 bp, Spacer: 90 bp
+  Structure: GACCAC--[90bp]--GTGGTC
+
+Repeat #23:
+  Left:  GACGAT at position 410
+  Right: ATCGTC at position 432
+  Length: 6 bp, Spacer: 16 bp
+  Structure: GACGAT--[16bp]--ATCGTC
+
+Repeat #24:
+  Left:  GAGCA at position 444
+  Right: TGCTC at position 511
+  Length: 5 bp, Spacer: 62 bp
+  Structure: GAGCA--[62bp]--TGCTC
+
+Repeat #25:
+  Left:  AGGACG at position 460
+  Right: CGTCCT at position 539
+  Length: 6 bp, Spacer: 73 bp
+  Structure: AGGACG--[73bp]--CGTCCT
+
+Repeat #26:
+  Left:  CGTG at position 466
+  Right: CACG at position 552
+  Length: 4 bp, Spacer: 82 bp
+  Structure: CGTG--[82bp]--CACG
+
+Repeat #27:
+  Left:  GACTG at position 477
+  Right: CAGTC at position 558
+  Length: 5 bp, Spacer: 76 bp
+  Structure: GACTG--[76bp]--CAGTC
+
+Repeat #28:
+  Left:  CGCCT at position 500
+  Right: AGGCG at position 589
+  Length: 5 bp, Spacer: 84 bp
+  Structure: CGCCT--[84bp]--AGGCG
+
+Repeat #29:
+  Left:  GTCG at position 507
+  Right: CGAC at position 566
+  Length: 4 bp, Spacer: 55 bp
+  Structure: GTCG--[55bp]--CGAC
+
+Repeat #30:
+  Left:  TGAAC at position 520
+  Right: GTTCA at position 614
+  Length: 5 bp, Spacer: 89 bp
+  Structure: TGAAC--[89bp]--GTTCA
+
+
+================================================================================
+GENOME 3: genome3.fasta
+================================================================================
+Genome length: 1,149 bp
+Total inverted repeats: 1483
+Top candidates: 50
+
+Distribution:
+  4 bp repeats: 5
+  5 bp repeats: 16
+  6 bp repeats: 29
+
+--- TOP 30 INVERTED REPEATS ---
+
+Repeat #1:
+  Left:  CGCGCC at position 30
+  Right: GGCGCG at position 48
+  Length: 6 bp, Spacer: 12 bp
+  Structure: CGCGCC--[12bp]--GGCGCG
+
+Repeat #2:
+  Left:  GCGTGC at position 56
+  Right: GCACGC at position 70
+  Length: 6 bp, Spacer: 8 bp
+  Structure: GCGTGC--[8bp]--GCACGC
+
+Repeat #3:
+  Left:  CGCGCC at position 78
+  Right: GGCGCG at position 177
+  Length: 6 bp, Spacer: 93 bp
+  Structure: CGCGCC--[93bp]--GGCGCG
+
+Repeat #4:
+  Left:  CGCGTC at position 84
+  Right: GACGCG at position 171
+  Length: 6 bp, Spacer: 81 bp
+  Structure: CGCGTC--[81bp]--GACGCG
+
+Repeat #5:
+  Left:  GTCCG at position 99
+  Right: CGGAC at position 134
+  Length: 5 bp, Spacer: 30 bp
+  Structure: GTCCG--[30bp]--CGGAC
+
+Repeat #6:
+  Left:  TGGCCG at position 109
+  Right: CGGCCA at position 196
+  Length: 6 bp, Spacer: 81 bp
+  Structure: TGGCCG--[81bp]--CGGCCA
+
+Repeat #7:
+  Left:  GCCGA at position 123
+  Right: TCGGC at position 190
+  Length: 5 bp, Spacer: 62 bp
+  Structure: GCCGA--[62bp]--TCGGC
+
+Repeat #8:
+  Left:  CGCG at position 128
+  Right: CGCG at position 218
+  Length: 4 bp, Spacer: 86 bp
+  Structure: CGCG--[86bp]--CGCG
+
+Repeat #9:
+  Left:  CGGCGC at position 140
+  Right: GCGCCG at position 226
+  Length: 6 bp, Spacer: 80 bp
+  Structure: CGGCGC--[80bp]--GCGCCG
+
+Repeat #10:
+  Left:  GTGCG at position 147
+  Right: CGCAC at position 205
+  Length: 5 bp, Spacer: 53 bp
+  Structure: GTGCG--[53bp]--CGCAC
+
+Repeat #11:
+  Left:  GCGCC at position 160
+  Right: GGCGC at position 212
+  Length: 5 bp, Spacer: 47 bp
+  Structure: GCGCC--[47bp]--GGCGC
+
+Repeat #12:
+  Left:  TCACGG at position 238
+  Right: CCGTGA at position 319
+  Length: 6 bp, Spacer: 75 bp
+  Structure: TCACGG--[75bp]--CCGTGA
+
+Repeat #13:
+  Left:  CATGT at position 254
+  Right: ACATG at position 313
+  Length: 5 bp, Spacer: 54 bp
+  Structure: CATGT--[54bp]--ACATG
+
+Repeat #14:
+  Left:  GGCGAC at position 276
+  Right: GTCGCC at position 378
+  Length: 6 bp, Spacer: 96 bp
+  Structure: GGCGAC--[96bp]--GTCGCC
+
+Repeat #15:
+  Left:  CCAGGG at position 290
+  Right: CCCTGG at position 337
+  Length: 6 bp, Spacer: 41 bp
+  Structure: CCAGGG--[41bp]--CCCTGG
+
+Repeat #16:
+  Left:  GGCC at position 302
+  Right: GGCC at position 398
+  Length: 4 bp, Spacer: 92 bp
+  Structure: GGCC--[92bp]--GGCC
+
+Repeat #17:
+  Left:  CGGGCC at position 354
+  Right: GGCCCG at position 442
+  Length: 6 bp, Spacer: 82 bp
+  Structure: CGGGCC--[82bp]--GGCCCG
+
+Repeat #18:
+  Left:  CCGGTG at position 370
+  Right: CACCGG at position 404
+  Length: 6 bp, Spacer: 28 bp
+  Structure: CCGGTG--[28bp]--CACCGG
+
+Repeat #19:
+  Left:  GCAGC at position 389
+  Right: GCTGC at position 424
+  Length: 5 bp, Spacer: 30 bp
+  Structure: GCAGC--[30bp]--GCTGC
+
+Repeat #20:
+  Left:  CTCGG at position 411
+  Right: CCGAG at position 472
+  Length: 5 bp, Spacer: 56 bp
+  Structure: CTCGG--[56bp]--CCGAG
+
+Repeat #21:
+  Left:  AGCCCG at position 430
+  Right: CGGGCT at position 500
+  Length: 6 bp, Spacer: 64 bp
+  Structure: AGCCCG--[64bp]--CGGGCT
+
+Repeat #22:
+  Left:  GCTCGT at position 449
+  Right: ACGAGC at position 529
+  Length: 6 bp, Spacer: 74 bp
+  Structure: GCTCGT--[74bp]--ACGAGC
+
+Repeat #23:
+  Left:  GGCGC at position 461
+  Right: GCGCC at position 523
+  Length: 5 bp, Spacer: 57 bp
+  Structure: GGCGC--[57bp]--GCGCC
+
+Repeat #24:
+  Left:  GAGGGG at position 480
+  Right: CCCCTC at position 542
+  Length: 6 bp, Spacer: 56 bp
+  Structure: GAGGGG--[56bp]--CCCCTC
+
+Repeat #25:
+  Left:  GTCGAG at position 489
+  Right: CTCGAC at position 582
+  Length: 6 bp, Spacer: 87 bp
+  Structure: GTCGAG--[87bp]--CTCGAC
+
+Repeat #26:
+  Left:  CGATG at position 577
+  Right: CATCG at position 626
+  Length: 5 bp, Spacer: 44 bp
+  Structure: CGATG--[44bp]--CATCG
+
+Repeat #27:
+  Left:  GGCCGG at position 599
+  Right: CCGGCC at position 639
+  Length: 6 bp, Spacer: 34 bp
+  Structure: GGCCGG--[34bp]--CCGGCC
+
+Repeat #28:
+  Left:  GCCGGA at position 611
+  Right: TCCGGC at position 619
+  Length: 6 bp, Spacer: 2 bp
+  Structure: GCCGGA--[2bp]--TCCGGC
+
+Repeat #29:
+  Left:  CCTCA at position 647
+  Right: TGAGG at position 659
+  Length: 5 bp, Spacer: 7 bp
+  Structure: CCTCA--[7bp]--TGAGG
+
+Repeat #30:
+  Left:  CGGCG at position 701
+  Right: CGCCG at position 734
+  Length: 5 bp, Spacer: 28 bp
+  Structure: CGGCG--[28bp]--CGCCG
+
+
+================================================================================
+CONCLUSIONS
+================================================================================
+Inverted repeats were successfully detected in all genomes.
+These structures are characteristic signatures of transposable elements.
